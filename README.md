@@ -1,6 +1,5 @@
 ![php](https://img.shields.io/badge/php-%3E%3D8.0-blue)
 ![laravel](https://img.shields.io/badge/laravel->=9.29.0-blue)
-![license](https://img.shields.io/github/license/rootcause0/repository-pattern-laravel?style=flat-square)
 
 # repository-pattern-laravel
 An example demonstrates use of Laravel's Service Container in Repository Pattern.
@@ -31,7 +30,7 @@ php artisan db:seed
 You should ok to launch the app.
 
 ## Usage
-Only one resource route available to access and this one is the utilizing the main feature of the app,which is Repository Pattern and Laravel's brilliant Service container of course.
+Only one resource route available to access and this one is the utilizing the main feature of the app,which is Repository Pattern and Laravel's brilliant Service Container of course.
 
 The route for this resource is 'user-orders' and there is all available short methods for this resource.
 ```php
